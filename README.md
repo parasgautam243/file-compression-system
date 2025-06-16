@@ -56,11 +56,11 @@ Inside the [`src` folder](src), you’ll find all of my classes and forms:
 
 1. Clone my repository to your local machine:
    ```bash
-   git clone https://github.com/parasgautam243/tech-file-compression.git
+   git clone https://github.com/parasgautam243/file-compression-system.git
 
 2. Navigate to the project directory:
    ```bash
-   cd tech-file-compression/src
+   cd file-compression-system/src
 
 3. Open the project in your preferred Java IDE.
 
